@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "id": "hello-plugin-C1SXYk6Ucv",
+      "_type": "primaryMenuItem",
+      "attributes": {
+        "slug": "hello-plugin",
+        "label": "Hello Plugin",
+        "url": "/hello-plugin"
+      }
+    }
+  ]
+}
